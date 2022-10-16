@@ -1,0 +1,13 @@
+{
+  "storeHouse": 
+  [
+      {
+           "sourceName": "人人资源影视仓",
+           "sourceUrl": "https://cn.kstore.space/download/2998/1/单仓.txt"
+      },
+      {
+           "sourceName": "人人资源影视仓(备用)",
+           "sourceUrl": "https://cn.kstore.space/download/2998/1/单仓2.txt"
+      }
+  ]
+}

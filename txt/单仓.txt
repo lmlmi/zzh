@@ -1,0 +1,25 @@
+{
+    "urls":[
+     {
+        "url":"https://cn.kstore.space/download/2998/1/影视.txt",
+       "name":"影视"
+      },
+     {
+        "url":"https://cn.kstore.space/download/2998/1/教育﹠教程.txt",
+       "name":"教育﹠教程"
+      },
+     {
+        "url":"https://cn.kstore.space/download/2998/1/美食.txt",
+       "name":"美食"
+      },
+     {
+        "url":"https://cn.kstore.space/download/2998/1/体育﹠直播.txt",
+       "name":"体育﹠直播"
+      },
+     {
+        "url":"https://cn.kstore.space/download/2998/1/休闲综艺.txt",
+       "name":"休闲综艺"
+      }
+    ]
+    
+}	  

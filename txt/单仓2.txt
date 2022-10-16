@@ -1,0 +1,33 @@
+{
+    "urls":[
+     {
+        "url":"https://wds.ecsxs.com/216168.txt",
+       "name":"影视1(备用)"
+      },
+     {
+        "url":"https://wds.ecsxs.com/216185.txt",
+       "name":"影视2(备用)"
+      },      
+     {
+        "url":"https://wds.ecsxs.com/216197.txt",
+       "name":"影视3(备用)"
+      },
+     {
+        "url":"https://wds.ecsxs.com/216398.txt",
+       "name":"影视4(备用)"
+      },
+     {
+        "url":"https://wds.ecsxs.com/216406.txt",
+      "name":"影视5(备用)"
+      },
+     {
+        "url":"https://wds.ecsxs.com/218085.txt",
+       "name":"影视6(备用)"
+     },      
+    {
+       "url":"https://wds.ecsxs.com/221233.txt",
+      "name":"影视7(备用)"
+      }
+    ]
+    
+}	  
