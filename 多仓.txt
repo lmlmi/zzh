@@ -2,12 +2,16 @@
   "storeHouse": 
   [
       {
-           "sourceName": "人人资源影视仓",
+           "sourceName": "人人资源影视本地仓",
+           "sourceUrl": "clan://localhost/人人资源/单仓.txt"
+      },
+      {
+           "sourceName": "人人资源影视云端仓1",
            "sourceUrl": "https://cn.kstore.space/download/2998/1/单仓.txt"
       },
       {
-           "sourceName": "人人资源影视仓(备用)",
-           "sourceUrl": "https://cn.kstore.space/download/2998/1/单仓2.txt"
+           "sourceName": "人人资源影视云端仓2",
+           "sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"
       }
   ]
 }

@@ -1,24 +1,28 @@
 {
     "urls":[
      {
-        "url":"https://cn.kstore.space/download/2998/1/影视.txt",
+        "url":"https://agit.ai/376242575/zzh/raw/branch/master/影视.txt",
        "name":"影视"
       },
      {
-        "url":"https://cn.kstore.space/download/2998/1/教育﹠教程.txt",
+        "url":"https://agit.ai/376242575/zzh/raw/branch/master/教育﹠教程.txt",
        "name":"教育﹠教程"
       },
      {
-        "url":"https://cn.kstore.space/download/2998/1/美食.txt",
+        "url":"https://agit.ai/376242575/zzh/raw/branch/master/美食.txt",
        "name":"美食"
       },
      {
-        "url":"https://cn.kstore.space/download/2998/1/体育﹠直播.txt",
+        "url":"https://agit.ai/376242575/zzh/raw/branch/master/体育﹠直播.txt",
        "name":"体育﹠直播"
       },
      {
-        "url":"https://cn.kstore.space/download/2998/1/休闲综艺.txt",
+        "url":"https://agit.ai/376242575/zzh/raw/branch/master/休闲综艺.txt",
        "name":"休闲综艺"
+      },
+           {
+        "url":"clan://localhost/人人资源/人人资源.txt",
+       "name":"本地"
       }
     ]
     
