@@ -1,0 +1,25 @@
+{
+    "urls":[
+     {
+        "url":"clan://localhost/人人资源/影视.txt",
+       "name":"影视"
+      },
+     {
+        "url":"clan://localhost/人人资源/教育﹠教程.txt",
+       "name":"教育﹠教程"
+      },
+     {
+        "url":"clan://localhost/人人资源/美食.txt",
+       "name":"美食"
+      },
+     {
+        "url":"clan://localhost/人人资源/体育﹠直播.txt",
+       "name":"体育﹠直播"
+      },
+     {
+        "url":"clan://localhost/人人资源/休闲综艺.txt",
+       "name":"休闲综艺"
+      }
+    ]
+    
+}	  

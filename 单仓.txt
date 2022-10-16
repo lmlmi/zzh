@@ -19,10 +19,6 @@
      {
         "url":"https://agit.ai/376242575/zzh/raw/branch/master/休闲综艺.txt",
        "name":"休闲综艺"
-      },
-           {
-        "url":"clan://localhost/人人资源/人人资源.txt",
-       "name":"本地"
       }
     ]
     
