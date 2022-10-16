@@ -1373,5 +1373,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tool.weetai.cn/api/images/05.png",
-  "spider": "https://cn.kstore.space/download/2998/1/jar/影视.jar"
+  "spider": "https://agit.ai/376242575/zzh/raw/branch/master/jar/影视.jar"
 }
