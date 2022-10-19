@@ -19,7 +19,10 @@
      {
         "url":"https://agit.ai/376242575/zzh/raw/branch/master/休闲综艺.txt",
        "name":"休闲综艺"
+      },
+     {
+        "url":"https://agit.ai/376242575/py/raw/branch/py/1/py.txt",
+       "name":"央视回放"
       }
-    ]
-    
+    ]    
 }	  
