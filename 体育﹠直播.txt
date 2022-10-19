@@ -1,7 +1,7 @@
 {
   "sites": [
 
-     {
+    {
       "key": "虎牙",
       "name": "🐯虎牙",
       "type": 3,
@@ -9,17 +9,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/hnryzzh/zzh/raw/master/json/虎牙.json"
+      "ext": "https://agit.ai/376242575/zzh/raw/branch/master/json/虎牙.json"
     },
-    {
-      "key": "csp_biubiu_斗鱼",
-      "name": "🦈斗鱼",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitee.com/hnryzzh/zzh/raw/master/json/斗鱼.json"
+    { 
+      "key": "csp_XYQBiu_斗鱼",
+      "name":"🐬斗鱼",
+      "type":3,
+      "api":"csp_XYQBiu",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://agit.ai/376242575/zzh/raw/branch/master/json/dy.json"
     },
     {
       "key": "网易CC",
@@ -29,7 +29,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/hnryzzh/zzh/raw/master/json/网易CC.json"
+      "ext": "https://agit.ai/376242575/zzh/raw/branch/master/json/网易CC.json"
     },
     {
       "key": "csp_Yj1211",
@@ -48,9 +48,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/hnryzzh/zzh/raw/master/json/310直播.json"
+      "ext": "https://agit.ai/376242575/zzh/raw/branch/master/json/310直播.json"
     },
-        {
+    {
       "key": "17kan",
       "name": "⚽🏀17看球",
       "type": 3,
@@ -58,7 +58,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/hnryzzh/zzh/raw/master/json/17看球.json"
+      "ext": "https://agit.ai/376242575/zzh/raw/branch/master/json/17看球.json"
     },
     {
       "key": "csp_xpath_88kanqiu",
@@ -68,7 +68,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/hnryzzh/zzh/raw/master/json/88看球.json"
+      "ext": "https://agit.ai/376242575/zzh/raw/branch/master/json/88看球.json"
     },
     {
       "key": "csp_xpath_球迷直播",
@@ -78,7 +78,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/hnryzzh/zzh/raw/master/json/球迷直播.json"
+      "ext": "https://agit.ai/376242575/zzh/raw/branch/master/json/球迷直播.json"
     },
     {
       "key": "JRS看球网",
@@ -88,11 +88,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/hnryzzh/zzh/raw/master/json/JRS看球网.json"
+      "ext": "https://agit.ai/376242575/zzh/raw/branch/master/json/JRS看球网.json"
     }
-
   ],
-  "spider":"https://gitee.com/hnryzzh/zzh/raw/master/jar/教学﹠直播﹠美食.jar",
+  "spider":"https://agit.ai/376242575/zzh/raw/branch/master/jar/教学﹠直播﹠美食.jar",
   "wallpaper":"https://yydsys.top/api.php",
   "lives": [
     {
@@ -485,4 +484,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ]
-  }
+        }
+ 
