@@ -1,0 +1,9 @@
+{
+  "storeHouse": 
+  [
+      {
+           "sourceName": "人人资源云端影视仓",
+           "sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"
+      }
+  ]
+}
