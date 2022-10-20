@@ -2,16 +2,20 @@
   "storeHouse": 
   [
       {
-           "sourceName": "人人资源影视本地仓",
+           "sourceName": "本地仓",
            "sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/本地仓.txt"
       },
       {
-           "sourceName": "人人资源影视云端仓1",
+           "sourceName": "云端仓1",
            "sourceUrl": "https://cn.kstore.space/download/2998/1/单仓.txt"
       },
       {
-           "sourceName": "人人资源影视云端仓2",
+           "sourceName": "云端仓2",
            "sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"
+      },
+      {
+           "sourceName": "云端仓3",
+           "sourceUrl": "https://gitee.com/hnryzzh/zzh/raw/master/单仓.txt"
       }
   ]
 }
