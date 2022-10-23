@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-           "url":"https://raw.fastgit.org/leevi0709/duo/main/v.json",
+           "url":"https://agit.ai/376242575/zzh/raw/branch/master/o/v.json",
            "name":"🔔点击选择下方线路"
         },
         {
-           "url": "https://raw.fastgit.org/leevi0709/duo/main/v.json",
+           "url": "https://agit.ai/376242575/zzh/raw/branch/master/o/v.json",
            "name":"🏡家庭版"
         },
         {
