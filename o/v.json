@@ -2,10 +2,10 @@
 {
     "sites": [
 	{
-            "key": "apps",
+            "key": "csp_Kunyu77",
             "name": "🍀关注公众号:人人资源，及时获取最新免费资源",
             "type": 3,
-            "api": "apps",
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
