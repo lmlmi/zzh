@@ -78,15 +78,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "APPTT",
-            "name": "图图",
-            "api": "csp_AppTT",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
+{"key":"csp_AppTT","name":"🗺️图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,
+"jar": "https://agit.ai/376242575/zzh/raw/branch/master/jar/tutu.jar"},
         {
             "key": "293视频",
             "name": "293视频",
