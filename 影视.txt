@@ -14,7 +14,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/376242575/zzh/raw/branch/master/json/nmys.json"
+            "ext": "https://agit.ai/376242575/zzh/raw/branch/master/json/nmys.json",
+            "jar": "https://agit.ai/376242575/zzh/raw/branch/master/jar/甜蜜.jar"
         },
 {"key":"csp_QQ","name":"🍅腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🌈爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
