@@ -1,4 +1,5 @@
 央视,#genre#
+CCTV-1 综合,http://192.168.10.1:5678/bestv.php?id=cctv1hd8m/8000000
 CCTV-1 综合,http://39.184.224.99:9080/newlive/live/hls/1/live.m3u8
 CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -7,6 +8,7 @@ CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
 CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
 CCTV-1 综合,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 
+CCTV-2 财经,
 CCTV-2 财经,http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
 CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2 财经,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
@@ -15,6 +17,7 @@ CCTV-2 财经,http://39.135.138.58:18890/PLTV/88888910/224/3221225643/index.m3u8
 CCTV-2 财经,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 CCTV-2 财经,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls
 
+CCTV-3 综艺,
 CCTV-3 综艺,http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8
 CCTV-3 综艺,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3 综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
@@ -30,6 +33,7 @@ CCTV-3 综艺,http://111.59.189.40:8445/tsfile/live/1002_1.m3u8
 CCTV-3 综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8
 CCTV-3 综艺,http://117.169.120.140:8080/live/cctv-3/.m3u8
 
+CCTV-4 中文国际,
 CCTV-4 中文国际,http://39.184.224.99:9080/newlive/live/hls/4/live.m3u8
 CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4 中文国际,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
@@ -42,6 +46,7 @@ CCTV-4 中文国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/.m3u
 CCTV-4 中文国际,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?
 CCTV-4 中文国际,http://111.59.189.40:8445/tsfile/live/1003_1.m3u8
 
+CCTV-5 体育,
 CCTV-5 体育,http://39.184.224.99:9080/newlive/live/hls/5/live.m3u8
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
@@ -55,8 +60,7 @@ CCTV-5 体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 CCTV-5 体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225754/index.m3u8
 CCTV-5 体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/2300.m3u8
 
-
-
+CCTV-5+ 体育赛事,
 CCTV-5+ 体育赛事,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
 CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+ 体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
@@ -68,6 +72,7 @@ CCTV-5+ 体育赛事,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/ind
 CCTV-5+ 体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 CCTV-5+ 体育赛事,http://111.59.189.40:8445/tsfile/live/1018_1.m3u8
 
+CCTV-6 电影,
 CCTV-6 电影,http://39.184.224.99:9080/newlive/live/hls/6/live.m3u8
 CCTV-6 电影,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-6 电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
@@ -81,6 +86,7 @@ CCTV-6 电影,http://222.240.82.92:9901/tsfile/live/0006_1.m3u8
 CCTV-6 电影,http://111.59.189.40:8445/tsfile/live/1004_1.m3u8
 CCTV-6 电影,http://117.169.120.140:8080/live/cctv-6/.m3u8
 
+CCTV-7 国防军事,
 CCTV-7 国防军事,http://39.184.224.99:9080/newlive/live/hls/7/live.m3u8
 CCTV-7 国防军事,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
 CCTV-7 国防军事,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
